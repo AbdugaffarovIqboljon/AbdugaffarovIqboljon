@@ -1,6 +1,6 @@
 ---
 #### About Me 🚀
-Hey, I’m Iqboljon, a passionate Junior Flutter Developer with a keen interest in the fascinating world of AI! 📱🤖
+Hey, I’m Iqboljon, a passionate Flutter Developer with a keen interest in the fascinating world of AI! 📱🤖
 
 
 
