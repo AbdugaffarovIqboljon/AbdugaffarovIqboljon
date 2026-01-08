@@ -1,5 +1,4 @@
 ---
-About Me 🚀
 I am a Flutter Developer with over 2 years of experience building mobile applications. I focus on creating apps that are easy to use, fast, and work well on both Android and iOS.
 
 Core Technical Skills:
