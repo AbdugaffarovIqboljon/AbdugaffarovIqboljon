@@ -1,25 +1,24 @@
 ---
-#### About Me 🚀
-Hey, I’m Iqboljon, a passionate Flutter Developer with a keen interest in the fascinating world of AI! 📱🤖
+About Me 🚀
+I am a Flutter Developer with over 2 years of experience building mobile applications. I focus on creating apps that are easy to use, fast, and work well on both Android and iOS.
 
+Core Technical Skills:
 
+State Management: Proficient in BLoC, Cubit, and Provider, enabling scalable and maintainable architectures.
 
-#### Tech Enthusiast 📚
-I thrive on the thrill of building innovative and user-friendly Flutter applications that bring ideas to life. As a tech enthusiast, I’m constantly exploring the latest trends and developments in the Flutter ecosystem, seeking to enhance my skills and create impactful projects. 📱💡
+Clean & Modular Architecture: I follow best practices to keep my code simple, organized, and easy to maintain.
 
-#### Journey into AI🤖 
-Beyond mobile app development, I’m on an exciting journey to unravel the mysteries of Artificial Intelligence! 🌐🧠 Exploring AI opens up endless possibilities, and I’m eager to leverage this cutting-edge technology to create intelligent and intuitive applications.
+Asynchronous & Reactive Programming: I use Dart’s Futures and Streams to handle data and operations smoothly.
 
+Backend Integrations & Real-Time Communication: Extensive experience with RESTful APIs, WebRTC for real-time video/audio communications, Socket.io for live chats, and Firebase (Firestore, Realtime Database, Notifications).
 
-#### Open Source Enthusiast 📈 
-Contributing to the open-source community is not just a passion but a responsibility that I wholeheartedly embrace. I love giving back and sharing knowledge to empower others and make a positive impact on the world of technology. 💻🌍
+Database & Offline Persistence: I work with Hive, SqfLite, and Shared Preferences to support offline data.
 
-#### Achieving Milestones 🏆 
-Every day, I’m striving to improve my skills and tackle exciting challenges. With each milestone reached, I celebrate the journey and eagerly anticipate the next chapter in my developer story. 🚀🎉
+UI/UX and Animations: I can turn Figma designs into smooth, interactive app interfaces with effective animations.
 
-#### Let’s Connect! 📫 
-I’m always excited to connect with fellow developers, tech enthusiasts, and AI lovers. Feel free to reach out for collaboration, sharing ideas, or just a friendly chat! 📧🗣️
+Testing & Performance Optimization: I regularly test my apps and optimize them to ensure they run well on both Android and iOS.
 
+I am always learning and improving my skills to build better mobile applications. My goal is to use modern Flutter tools and techniques to create apps that deliver a great user experience.
 ---
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
