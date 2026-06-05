@@ -10,7 +10,7 @@ mobile applications for Android and iOS.
 
 ## 👨‍💻 Professional Summary
 
-Flutter Developer with over **2 years of hands-on experience** developing real-world mobile applications.
+Flutter Developer with nearly **3 years of experience** developing real-world mobile applications.
 Strong background in clean architecture, state management, real-time communication,
 and performance optimization.
 
