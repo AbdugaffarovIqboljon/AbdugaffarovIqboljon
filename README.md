@@ -10,7 +10,7 @@ mobile applications for Android and iOS.
 
 ## 👨‍💻 Professional Summary
 
-Flutter Developer with nearly **3 years of experience** developing real-world mobile applications.
+Flutter Developer with nearly **3.5+ years of experience** developing real-world mobile applications.
 Strong background in clean architecture, state management, real-time communication,
 and performance optimization.
 
@@ -70,22 +70,6 @@ and delivering production-quality applications.
 - Integrated Firebase services for backend and notifications
 - Applied clean architecture for scalable codebases
 - Optimized app performance and user experience
-
----
-
-## 🚀 Key Project
-
-### MyTeacher Student
-Educational mobile application
-
-**Responsibilities**
-- Built real-time chat & video call features
-- Implemented quizzes and interactive learning modules
-- Integrated Firebase notifications
-- Ensured smooth UI/UX with animations
-
-**Technologies**
-Flutter • Firebase • WebRTC • Socket.io
 
 ---
 
